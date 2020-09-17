@@ -7,7 +7,11 @@ This Short Angular Program has 2 buttons import and export and does the followin
     2. Display contents of all the files in the browser using table tag.
     3. Exports all the content of all the files in the excel files.
     
-
+![GitHub Logo](/src/assets/ss2.PNG)
+![GitHub Logo](/src/assets/ss3.PNG)
+![GitHub Logo](/src/assets/ss4.PNG)
+![GitHub Logo](/src/assets/ss5.PNG)
+![GitHub Logo](/src/assets/ss6.PNG)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
 ## Development server
