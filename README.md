@@ -1,10 +1,12 @@
 # Import-read-and-export-Excel-file-in-Angular
 
 
-This Short Angular Program Does the following job: - 
-`dsjdsk`
-
-
+This Short Angular Program has 2 buttons import and export and does the following job: - 
+    1. Import one to multiple Excel files.
+    
+    2. Display contents of all the files in the browser using table tag.
+    3. Exports all the content of all the files in the excel files.
+    
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
