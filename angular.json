@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "simplyturn-test"
+    }
+  },
+  "defaultProject": "simplyturn-test",
+  "cli": {
+    "analytics": "bcb62853-5a74-4348-8b90-1cf9ebc7ff87"
+  }
 }
